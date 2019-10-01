@@ -1,0 +1,14 @@
+<?xml version= "1.0"?>
+<Properties>
+    <SourceDirection>
+        <path>C:\Users\tn_pripe\Desktop\LibraryTransfer\Postsolder</path>
+    </SourceDirection>
+    <ProgramFolder>
+        <path>C:\Users\tn_pripe\Desktop\LibraryTransfer\VIS</path>
+    </ProgramFolder>
+    <TransferDirection>
+        <path>C:\Users\tn_pripe\Desktop\LibraryTransfer\TransferFolder_1</path>
+        <path>C:\Users\tn_pripe\Desktop\LibraryTransfer\TransferFolder_2</path>
+        <path>C:\Users\tn_pripe\Desktop\LibraryTransfer\TransferFolder_3</path>
+    </TransferDirection>
+</Properties>
